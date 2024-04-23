@@ -1,0 +1,7 @@
+C:\skole\H2\RPG game\RPG-Game\RPG Game\RPG Game\bin\Debug\RPG Game.exe.config
+C:\skole\H2\RPG game\RPG-Game\RPG Game\RPG Game\bin\Debug\RPG Game.exe
+C:\skole\H2\RPG game\RPG-Game\RPG Game\RPG Game\bin\Debug\RPG Game.pdb
+C:\skole\H2\RPG game\RPG-Game\RPG Game\RPG Game\obj\Debug\RPG Game.csproj.AssemblyReference.cache
+C:\skole\H2\RPG game\RPG-Game\RPG Game\RPG Game\obj\Debug\RPG Game.csproj.CoreCompileInputs.cache
+C:\skole\H2\RPG game\RPG-Game\RPG Game\RPG Game\obj\Debug\RPG Game.exe
+C:\skole\H2\RPG game\RPG-Game\RPG Game\RPG Game\obj\Debug\RPG Game.pdb
