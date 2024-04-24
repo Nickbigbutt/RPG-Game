@@ -8,7 +8,7 @@ namespace RPG_Game
 {
     internal class State
     {
-        Stack<State> states;
+        protected Stack<State> states;
 
         public State(Stack<State> states) 
         {

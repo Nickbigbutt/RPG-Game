@@ -18,6 +18,8 @@ namespace RPG_Game
             set { this.end = value; }
         }
 
+        private Gui gui;
+
         private Stack<State> states;
 
         //private functians
@@ -33,17 +35,21 @@ namespace RPG_Game
             //Console.WriteLine(this.states.GetHashCode());
 
             //push first state
-            this.states.Push(new State(this.states));
+            this.states.Push(new StateMainMenu(this.states));
         }
 
 
+        private void IntGui()
+        {
+            this.gui = new Gui();
+        }
+
         // Constructors and Descructors
         public Game()
-        {
+        {   
             this.InitVariables();
             this.InitStates();
-
-            Console.WriteLine("Hello from the game Class"); 
+            this.IntGui();
         }
 
 
@@ -51,6 +57,8 @@ namespace RPG_Game
         {
             while (this.end == false)
             {
+                this.gui.render();
+
                 Console.WriteLine("Write a number: ");
                 int number = Convert.ToInt32(Console.ReadLine());
 
