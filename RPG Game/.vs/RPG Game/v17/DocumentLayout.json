@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "C:\\skole\\H2\\RPG game\\RPG-Game\\RPG Game\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BFD661C1-99C3-4BA6-9BF1-529794B624FA}|RPG Game\\RPG Game.csproj|C:\\skole\\H2\\RPG game\\RPG-Game\\RPG Game\\rpg game\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BFD661C1-99C3-4BA6-9BF1-529794B624FA}|RPG Game\\RPG Game.csproj|c:\\skole\\h2\\rpg game\\rpg-game\\rpg game\\rpg game\\gameplay\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFD661C1-99C3-4BA6-9BF1-529794B624FA}|RPG Game\\RPG Game.csproj|solutionrelative:rpg game\\gameplay\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFD661C1-99C3-4BA6-9BF1-529794B624FA}|RPG Game\\RPG Game.csproj|C:\\skole\\H2\\RPG game\\RPG-Game\\RPG Game\\rpg game\\states\\stategame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFD661C1-99C3-4BA6-9BF1-529794B624FA}|RPG Game\\RPG Game.csproj|solutionrelative:rpg game\\states\\stategame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFD661C1-99C3-4BA6-9BF1-529794B624FA}|RPG Game\\RPG Game.csproj|C:\\skole\\H2\\RPG game\\RPG-Game\\RPG Game\\rpg game\\states\\statemainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFD661C1-99C3-4BA6-9BF1-529794B624FA}|RPG Game\\RPG Game.csproj|solutionrelative:rpg game\\states\\statemainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFD661C1-99C3-4BA6-9BF1-529794B624FA}|RPG Game\\RPG Game.csproj|c:\\skole\\h2\\rpg game\\rpg-game\\rpg game\\rpg game\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BFD661C1-99C3-4BA6-9BF1-529794B624FA}|RPG Game\\RPG Game.csproj|solutionrelative:rpg game\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFD661C1-99C3-4BA6-9BF1-529794B624FA}|RPG Game\\RPG Game.csproj|C:\\skole\\H2\\RPG game\\RPG-Game\\RPG Game\\rpg game\\states\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFD661C1-99C3-4BA6-9BF1-529794B624FA}|RPG Game\\RPG Game.csproj|solutionrelative:rpg game\\states\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BFD661C1-99C3-4BA6-9BF1-529794B624FA}|RPG Game\\RPG Game.csproj|C:\\skole\\H2\\RPG game\\RPG-Game\\RPG Game\\rpg game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BFD661C1-99C3-4BA6-9BF1-529794B624FA}|RPG Game\\RPG Game.csproj|solutionrelative:rpg game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BFD661C1-99C3-4BA6-9BF1-529794B624FA}|RPG Game\\RPG Game.csproj|c:\\skole\\h2\\rpg game\\rpg-game\\rpg game\\rpg game\\gui\\gui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BFD661C1-99C3-4BA6-9BF1-529794B624FA}|RPG Game\\RPG Game.csproj|C:\\skole\\H2\\RPG game\\RPG-Game\\RPG Game\\rpg game\\gui\\gui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BFD661C1-99C3-4BA6-9BF1-529794B624FA}|RPG Game\\RPG Game.csproj|solutionrelative:rpg game\\gui\\gui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BFD661C1-99C3-4BA6-9BF1-529794B624FA}|RPG Game\\RPG Game.csproj|c:\\skole\\h2\\rpg game\\rpg-game\\rpg game\\rpg game\\states\\statemainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFD661C1-99C3-4BA6-9BF1-529794B624FA}|RPG Game\\RPG Game.csproj|solutionrelative:rpg game\\states\\statemainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BFD661C1-99C3-4BA6-9BF1-529794B624FA}|RPG Game\\RPG Game.csproj|c:\\skole\\h2\\rpg game\\rpg-game\\rpg game\\rpg game\\states\\stategame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFD661C1-99C3-4BA6-9BF1-529794B624FA}|RPG Game\\RPG Game.csproj|solutionrelative:rpg game\\states\\stategame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BFD661C1-99C3-4BA6-9BF1-529794B624FA}|RPG Game\\RPG Game.csproj|c:\\skole\\h2\\rpg game\\rpg-game\\rpg game\\rpg game\\states\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFD661C1-99C3-4BA6-9BF1-529794B624FA}|RPG Game\\RPG Game.csproj|solutionrelative:rpg game\\states\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,82 +38,95 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\skole\\H2\\RPG game\\RPG-Game\\RPG Game\\RPG Game\\GamePlay\\Character.cs",
+              "RelativeDocumentMoniker": "RPG Game\\GamePlay\\Character.cs",
+              "ToolTip": "C:\\skole\\H2\\RPG game\\RPG-Game\\RPG Game\\RPG Game\\GamePlay\\Character.cs",
+              "RelativeToolTip": "RPG Game\\GamePlay\\Character.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T17:29:33.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Gui.cs",
               "DocumentMoniker": "C:\\skole\\H2\\RPG game\\RPG-Game\\RPG Game\\RPG Game\\Gui\\Gui.cs",
               "RelativeDocumentMoniker": "RPG Game\\Gui\\Gui.cs",
               "ToolTip": "C:\\skole\\H2\\RPG game\\RPG-Game\\RPG Game\\RPG Game\\Gui\\Gui.cs",
               "RelativeToolTip": "RPG Game\\Gui\\Gui.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAYwB4AAAArAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-24T08:38:16.762Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "StateGame.cs",
               "DocumentMoniker": "C:\\skole\\H2\\RPG game\\RPG-Game\\RPG Game\\RPG Game\\States\\StateGame.cs",
               "RelativeDocumentMoniker": "RPG Game\\States\\StateGame.cs",
               "ToolTip": "C:\\skole\\H2\\RPG game\\RPG-Game\\RPG Game\\RPG Game\\States\\StateGame.cs",
               "RelativeToolTip": "RPG Game\\States\\StateGame.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAA7AAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-24T08:28:49.421Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "StateMainMenu.cs",
               "DocumentMoniker": "C:\\skole\\H2\\RPG game\\RPG-Game\\RPG Game\\RPG Game\\States\\StateMainMenu.cs",
               "RelativeDocumentMoniker": "RPG Game\\States\\StateMainMenu.cs",
               "ToolTip": "C:\\skole\\H2\\RPG game\\RPG-Game\\RPG Game\\RPG Game\\States\\StateMainMenu.cs",
               "RelativeToolTip": "RPG Game\\States\\StateMainMenu.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBQAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-24T07:50:32.369Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "State.cs",
               "DocumentMoniker": "C:\\skole\\H2\\RPG game\\RPG-Game\\RPG Game\\RPG Game\\States\\State.cs",
               "RelativeDocumentMoniker": "RPG Game\\States\\State.cs",
               "ToolTip": "C:\\skole\\H2\\RPG game\\RPG-Game\\RPG Game\\RPG Game\\States\\State.cs",
               "RelativeToolTip": "RPG Game\\States\\State.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAARAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-23T08:09:38.627Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Game.cs",
               "DocumentMoniker": "C:\\skole\\H2\\RPG game\\RPG-Game\\RPG Game\\RPG Game\\Game.cs",
               "RelativeDocumentMoniker": "RPG Game\\Game.cs",
               "ToolTip": "C:\\skole\\H2\\RPG game\\RPG-Game\\RPG Game\\RPG Game\\Game.cs",
               "RelativeToolTip": "RPG Game\\Game.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwA0AAAAAAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAmwCkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-23T07:15:42.978Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\skole\\H2\\RPG game\\RPG-Game\\RPG Game\\RPG Game\\Program.cs",
               "RelativeDocumentMoniker": "RPG Game\\Program.cs",
               "ToolTip": "C:\\skole\\H2\\RPG game\\RPG-Game\\RPG Game\\RPG Game\\Program.cs",
               "RelativeToolTip": "RPG Game\\Program.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAQwBEAAAAXAAAA",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAQwA8AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-23T07:14:21.788Z",
               "EditorCaption": ""

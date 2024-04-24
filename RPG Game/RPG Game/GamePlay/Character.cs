@@ -6,16 +6,13 @@ using System.Threading.Tasks;
 
 namespace RPG_Game
 {
-    internal class Program
+     class Character
     {
-        static void Main(string[] args)
+
+        public Character()
         {
 
-            Game game = new Game();
-
-            
-
-            game.Run();
         }
+
     }
 }

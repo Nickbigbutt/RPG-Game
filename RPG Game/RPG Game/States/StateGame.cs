@@ -11,8 +11,27 @@ namespace RPG_Game
 
         public StateGame(Stack<State> states) : base(states)
         {
-            Console.WriteLine("Hello from the game state");
+          
         }
+
+        override public void Update()
+        {
+
+
+            Console.Write(Gui.MenuTitle("Game State"));
+            Console.Write(Gui.MenuOption(0, "Create Character"));
+            Console.Write(Gui.MenuOption(-1, "exit"));
+
+
+            Console.WriteLine("Write a number(Game): ");
+            int number = Convert.ToInt32(Console.ReadLine());
+
+
+            if (number < 0)
+                this.end = true;
+
+        }
+
 
 
     }

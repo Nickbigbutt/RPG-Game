@@ -8,27 +8,27 @@ namespace RPG_Game
 {
      class Gui
     {
-
-        private string header;
-        public string Header
+      public static String Title(String str)
         {
-            get { return this.header; }
-            set { this.header = value; }
+            str = String.Format("==== {0} ====\n\n", str);
+           
+            return str;
         }
 
-        public Gui()
-        {
-            this.header =
-            "Welcome to my game"
-            + "\n"
-            + "==========================" 
-            + "\n"; 
 
+        public static String MenuTitle(String str)
+        {
+            str = String.Format(" === {0}\n", str);
+
+            return str;
         }
 
-        public void render()
+
+        public static String MenuOption(int index, String str)
         {
-            Console.WriteLine(this.header);
+            str = String.Format(" - ({0}) : {1} \n", index,  str);
+
+            return str;
         }
 
     }
