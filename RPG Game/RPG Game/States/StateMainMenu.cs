@@ -8,6 +8,8 @@ namespace RPG_Game
 {
      class StateMainMenu : State
     {
+
+
         public StateMainMenu(Stack<State> states) : base(states)
         {
 
@@ -21,6 +23,9 @@ namespace RPG_Game
             Console.Write(Gui.MenuTitle("Main Menu"));
             Console.Write(Gui.MenuOption(0, "Create Character"));
             Console.Write(Gui.MenuOption(-1, "exit"));
+
+
+
 
             Console.WriteLine("Write a number(Menu): ");
             int number = Convert.ToInt32(Console.ReadLine());

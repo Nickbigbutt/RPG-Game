@@ -31,5 +31,12 @@ namespace RPG_Game
             return str;
         }
 
+
+
+        public static String GetInput(String str)
+        {
+
+        }
+
     }
 }
