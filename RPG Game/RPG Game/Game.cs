@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -21,11 +22,17 @@ namespace RPG_Game
 
 
         private Stack<State> states;
+        private ArrayList characterList;
 
         //private functians
         private void InitVariables()
         {
             this.end = false;
+        }
+
+        private void InitCharaterList()
+        {
+            this.characterList = new ArrayList();
         }
 
         private void InitStates()
@@ -35,7 +42,7 @@ namespace RPG_Game
             //Console.WriteLine(this.states.GetHashCode());
 
             //push first state
-            this.states.Push(new StateMainMenu(this.states));
+            this.states.Push(new StateMainMenu(this.states, this.characterList));
 
         }
 
@@ -46,6 +53,7 @@ namespace RPG_Game
         public Game()
         {   
             this.InitVariables();
+            this.InitCharaterList();
             this.InitStates();
  
         }

@@ -38,6 +38,15 @@ namespace RPG_Game
 
 
 
+
+
+
+
+        public String Name()
+        {
+            return this.name;
+        }
+
         private void CalculateExp()
         {
             this.expMax = this.level * 100;
@@ -65,9 +74,36 @@ namespace RPG_Game
 
 
 
+        public  string ToStringBanner()
+        {
+            String str =
+                "Active Character\n" +
+                "========================================\n" +
+                $"[ {this.name} | ll: {this.level} {Gui.ProgressBar(this.exp, this.expMax, 10)} ] \n " +
+                "========================================\n";
+            return str;
+        }
+
+
         public override string ToString()
         {
-            return this.name;
+            String str =
+                $"Name:\t\t{this.name}\n" +
+                $"Level:\t\t{this.level}\n" +
+                $"Attrubute point:\t{this.attrubutePoint}\n" +
+                $"Exp:\t\t{this.exp}/{this.expMax} {Gui.ProgressBar(30, 50, 10)}\n";
+            return str;
+        }
+
+
+        public string ToStringDetailed()
+        {
+            String str =
+                $"Name:\t\t{this.name}\n" +
+                $"Level:\t\t{this.level}\n" +
+                $"Attrubute point:\t{this.attrubutePoint}\n" +
+                $"Exp:\t\t{this.exp}/{this.expMax}\n";
+            return str;
         }
 
     }
